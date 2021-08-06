@@ -1,0 +1,10 @@
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\ESRA AYDIN\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
